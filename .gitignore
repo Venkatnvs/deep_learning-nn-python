@@ -76,3 +76,9 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
+
+# Horse or Human project settings
+horse-or-human/
+horse-or-human.zip
+validation-horse-or-human.zip
+test.jpg
